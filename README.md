@@ -1,4 +1,4 @@
-# WuMgr
+# Windows Update Manager
 
 ## Overview
 WuMgr (Update Manager for Windows) is a tool to manage updates of Microsoft products on the Windows operating system.
@@ -16,3 +16,5 @@ And if you preffer more legit payment methods, here is [my pateron page](https:/
 
 Icons provided by: 
 * Icons8-com (http://icons8.com/)
+
+If you would like to use the stable version with non broken source code, go to https://github.com/DavidXanatos/wumgr.
