@@ -1,0 +1,14 @@
+C:\Users\flynn\Desktop\Setups\wumgr-1.1 source\wumgr-1.1\wumgr\obj\Debug\wumgr.csprojAssemblyReference.cache
+C:\Users\flynn\Desktop\Setups\wumgr-1.1 source\wumgr-1.1\wumgr\obj\Debug\Interop.TaskScheduler.dll
+C:\Users\flynn\Desktop\Setups\wumgr-1.1 source\wumgr-1.1\wumgr\obj\Debug\Interop.WUApiLib.dll
+C:\Users\flynn\Desktop\Setups\wumgr-1.1 source\wumgr-1.1\wumgr\obj\Debug\wumgr.csproj.ResolveComReference.cache
+C:\Users\flynn\Desktop\Setups\wumgr-1.1 source\wumgr-1.1\wumgr\bin\Debug\wumgr.exe.config
+C:\Users\flynn\Desktop\Setups\wumgr-1.1 source\wumgr-1.1\wumgr\bin\Debug\wumgr.exe
+C:\Users\flynn\Desktop\Setups\wumgr-1.1 source\wumgr-1.1\wumgr\bin\Debug\wumgr.pdb
+C:\Users\flynn\Desktop\Setups\wumgr-1.1 source\wumgr-1.1\wumgr\bin\Debug\en-GB\wumgr.resources.dll
+C:\Users\flynn\Desktop\Setups\wumgr-1.1 source\wumgr-1.1\wumgr\obj\Debug\wumgr.Properties.Resources.resources
+C:\Users\flynn\Desktop\Setups\wumgr-1.1 source\wumgr-1.1\wumgr\obj\Debug\wumgr.WindowsUpdateManager.en-GB.resources
+C:\Users\flynn\Desktop\Setups\wumgr-1.1 source\wumgr-1.1\wumgr\obj\Debug\wumgr.csproj.GenerateResource.cache
+C:\Users\flynn\Desktop\Setups\wumgr-1.1 source\wumgr-1.1\wumgr\obj\Debug\en-GB\wumgr.resources.dll
+C:\Users\flynn\Desktop\Setups\wumgr-1.1 source\wumgr-1.1\wumgr\obj\Debug\wumgr.exe
+C:\Users\flynn\Desktop\Setups\wumgr-1.1 source\wumgr-1.1\wumgr\obj\Debug\wumgr.pdb
